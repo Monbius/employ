@@ -6,4 +6,4 @@
 下载文件后如何安装APP？
 
 ![gaitubao_Fl0ETL2JGXzeUhJgBj06IYcqs6RB](https://user-images.githubusercontent.com/82256583/117163870-a82ccb00-adf6-11eb-8000-1d02351b661a.jpg)
-![gaitubao_FoYtJ0wVfQl5z5TBh8CNUAPpprgV](https://user-images.githubusercontent.com/82256583/117164959-aadbf000-adf7-11eb-8b2f-bad6738b76ae.jpg)
+![gaitubao_FoN47DOqTUUefzaUrObJxacp395J](https://user-images.githubusercontent.com/82256583/117166069-a06e2600-adf8-11eb-86eb-344b7493e910.jpg)
