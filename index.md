@@ -4,3 +4,4 @@
 
 下载文件后如何安装APP？
 
+![gaitubao_Fl0ETL2JGXzeUhJgBj06IYcqs6RB](https://user-images.githubusercontent.com/82256583/117163870-a82ccb00-adf6-11eb-8000-1d02351b661a.jpg)
