@@ -49,11 +49,14 @@
 
 **打开新功能时，需退出QQ重新进入才有效**
 
+**④：**
 
+一直显示被系统“杀死”（关闭）？
 
+![IMG_20210506_211905](https://user-images.githubusercontent.com/82256583/117305077-00280800-aeb1-11eb-8999-677474f77451.jpg)
 
-
-
+**打开设置→找到“应用管理”→应用启动管理→找到“太极”→允许自启动**
+![Screenshot_20210506_211228_mh1620306886538](https://user-images.githubusercontent.com/82256583/117305458-5b59fa80-aeb1-11eb-894a-a9ddea0449c5.jpg)
 
 
 
