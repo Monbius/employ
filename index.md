@@ -25,7 +25,7 @@
 
 **②：**
 
-![gaitubao_FvbaXX9bCACIukM9VGSr3UZd-3DE](https://user-images.githubusercontent.com/82256583/117251500-58421880-ae77-11eb-8ca0-f8e14883aaf3.jpg)打开上一步安装的app
+![gaitubao_FvbaXX9bCACIukM9VGSr3UZd-3DE](https://user-images.githubusercontent.com/82256583/117251500-58421880-ae77-11eb-8ca0-f8e14883aaf3.jpg) **打开上一步安装的app**
 ![gaitubao_Fui9DbvjBUwEk4YH9PxLTpyGsHRi-1620282739577](https://user-images.githubusercontent.com/82256583/117252694-e66ace80-ae78-11eb-92fc-e241b117c862.jpg)
 ![gaitubao_FloiySh8P2gaX_ftJeMJJg56KdSM](https://user-images.githubusercontent.com/82256583/117252783-04d0ca00-ae79-11eb-8327-382d7959b40c.jpg)
 ![gaitubao_FtCQFagpjuYII0XSTV_GhIPaRKGD](https://user-images.githubusercontent.com/82256583/117252800-0c906e80-ae79-11eb-8811-d1d1a7957dff.jpg)
@@ -51,7 +51,7 @@
 
 **④：**
 
-一直显示被系统“杀死”（关闭）？
+**一直显示被系统“杀死”（关闭）？**
 
 ![IMG_20210506_211905](https://user-images.githubusercontent.com/82256583/117305077-00280800-aeb1-11eb-8999-677474f77451.jpg)
 
