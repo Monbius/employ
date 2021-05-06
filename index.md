@@ -22,3 +22,8 @@
 [①点击下载](https://down.xiazaidb.com/3_154470)
 
 [②备用下载链接](https://m.paopaoche.net/down.asp?id=496141)
+
+**②**
+
+打开之前下载的app
+![gaitubao_FvbaXX9bCACIukM9VGSr3UZd-3DE](https://user-images.githubusercontent.com/82256583/117251500-58421880-ae77-11eb-8ca0-f8e14883aaf3.jpg)
