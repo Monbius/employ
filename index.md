@@ -18,6 +18,6 @@
 
 **↓QQ8.0.0版本下载链接↓**
 
-[①点击下载](https://m.paopaoche.net/xia/496141)
+[①点击下载](https://m.paopaoche.net/down.asp?id=496141)
 
-[②备用下载链接](https://m.ruan8.com/soft/53598.html)
+[②备用下载链接](https://down.xiazaidb.com/3_154470)
