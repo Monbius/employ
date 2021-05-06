@@ -38,13 +38,14 @@
 ![gaitubao_FgnKl5sy7yrzTVWzkGnIEnz6hZHg](https://user-images.githubusercontent.com/82256583/117253053-5b3e0880-ae79-11eb-9a3b-f2f83798addf.jpg)
 
 退出**太极app**
+
 ![gaitubao_FrAkbK-OB-lstdH3DI5SBoh6MU5l](https://user-images.githubusercontent.com/82256583/117300927-a6254380-aeac-11eb-82ba-f04bf68b5653.jpg)
 ![IMG_20210506_204854](https://user-images.githubusercontent.com/82256583/117300942-ac1b2480-aeac-11eb-89a1-ec0a9bd5c203.jpg)
 ![IMG_20210506_204906](https://user-images.githubusercontent.com/82256583/117300948-afaeab80-aeac-11eb-8c85-55a6474a2916.jpg)
 ![IMG_20210506_204930](https://user-images.githubusercontent.com/82256583/117300970-b5a48c80-aeac-11eb-896e-3f2457d3f846.jpg)
 ![IMG_20210506_204916](https://user-images.githubusercontent.com/82256583/117301056-cfde6a80-aeac-11eb-87ac-4d862bc75d8b.jpg)
 
-
+**打开新功能时，需退出QQ重新进入才有效**
 
 
 
