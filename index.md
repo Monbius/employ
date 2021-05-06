@@ -39,6 +39,8 @@
 
 退出**太极app**
 
+**③**
+
 ![gaitubao_FrAkbK-OB-lstdH3DI5SBoh6MU5l](https://user-images.githubusercontent.com/82256583/117300927-a6254380-aeac-11eb-82ba-f04bf68b5653.jpg)
 ![IMG_20210506_204854](https://user-images.githubusercontent.com/82256583/117300942-ac1b2480-aeac-11eb-89a1-ec0a9bd5c203.jpg)
 ![IMG_20210506_204906](https://user-images.githubusercontent.com/82256583/117300948-afaeab80-aeac-11eb-8c85-55a6474a2916.jpg)
