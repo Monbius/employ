@@ -27,3 +27,22 @@
 
 打开之前下载的app
 ![gaitubao_FvbaXX9bCACIukM9VGSr3UZd-3DE](https://user-images.githubusercontent.com/82256583/117251500-58421880-ae77-11eb-8ca0-f8e14883aaf3.jpg)
+![gaitubao_Fui9DbvjBUwEk4YH9PxLTpyGsHRi-1620282739577](https://user-images.githubusercontent.com/82256583/117252694-e66ace80-ae78-11eb-92fc-e241b117c862.jpg)
+![gaitubao_FloiySh8P2gaX_ftJeMJJg56KdSM](https://user-images.githubusercontent.com/82256583/117252783-04d0ca00-ae79-11eb-8327-382d7959b40c.jpg)
+![gaitubao_FtCQFagpjuYII0XSTV_GhIPaRKGD](https://user-images.githubusercontent.com/82256583/117252800-0c906e80-ae79-11eb-8811-d1d1a7957dff.jpg)
+![gaitubao_FvgjTbMPy6ctEZAod1saDEwi_dzm](https://user-images.githubusercontent.com/82256583/117252829-14501300-ae79-11eb-9739-fe5f1c45863f.jpg)
+![gaitubao_FvwSFvm9S8mlO75LdZ1OU2n0lpoO](https://user-images.githubusercontent.com/82256583/117252864-203bd500-ae79-11eb-8b62-923b2505a448.jpg)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
