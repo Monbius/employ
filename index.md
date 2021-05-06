@@ -10,13 +10,13 @@
 ![gaitubao_Fkas72ADyx7bkb7AOiAs0t1rela1](https://user-images.githubusercontent.com/82256583/117166362-e0350d80-adf8-11eb-8a7a-8a336f1e916d.jpg)
 ![gaitubao_Fg0ZFA15JrVen8uIU5yW5d-jMbBJ](https://user-images.githubusercontent.com/82256583/117166578-16728d00-adf9-11eb-96b3-d84285a778d5.jpg)
 
-**该框架只能在指定旧版QQ使用，需删除原有新版QQ，下载8.0.0旧版本**
+**该框架只能在指定旧版QQ使用，需卸载原有新版QQ，下载8.0.0旧版本**
 
-**请确保QQ有SVIP漫游备份，或者在云空间，等其他地方备份了QQ数据。因删除QQ会一并删除数据，如有重要聊天记录或文件请备份，如没有可以直接删除**
+**请确保QQ有SVIP漫游备份，或者在云空间，等其他地方备份了QQ数据。因卸载QQ会一并删除数据，有重要聊天记录或文件请备份，如没有可以直接卸载**
 
 **有条件的也可以换一部手机使用该插件**
 
-**↓QQ8.0.0下载链接↓**
+**↓QQ8.0.0版本下载链接↓**
 
 [①点击下载](https://m.paopaoche.net/xia/496141)
 
