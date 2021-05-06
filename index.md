@@ -1,4 +1,4 @@
-**①**
+**①：**
 
 [☞点击下载☜](https://github.com/Monbius/employ/files/6427189/QQQ.zip)QQ插件【压缩包】
 
@@ -23,7 +23,7 @@
 
 [②备用下载链接](https://m.paopaoche.net/down.asp?id=496141)
 
-**②**
+**②：**
 
 打开之前下载的app
 ![gaitubao_FvbaXX9bCACIukM9VGSr3UZd-3DE](https://user-images.githubusercontent.com/82256583/117251500-58421880-ae77-11eb-8ca0-f8e14883aaf3.jpg)
